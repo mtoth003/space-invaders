@@ -19,3 +19,16 @@ body {
   height: 100vh;
   background: linear-gradient(0deg, rgb(97, 98, 99) 0%, rgba(0, 0, 0, 0) 100%);
 }
+
+.restart-btn {
+  border: 2px solid black;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.restart-btn:hover {
+  background: #e7e7e7;
+}
